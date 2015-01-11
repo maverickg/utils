@@ -13,3 +13,6 @@ do
     sleep 5
   fi
 done
+
+# see https://github.com/travis-ci/travis-build/blob/master/lib/travis/build/templates/header.sh
+# for what travis-ci does
